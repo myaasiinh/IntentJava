@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multiple Activity dan Intent</string>
+    <string name="menu_utama">Menu Utama</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="exit">Exit</string>
+</resources>
